@@ -1,6 +1,4 @@
-public struct Trifles {
-    public private(set) var text = "Hello, World!"
+import UIKit
+public class Trifles {
 
-    public init() {
-    }
 }
